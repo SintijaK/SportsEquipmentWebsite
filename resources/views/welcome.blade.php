@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Sports Equipment
+                    Sports Equipment 1.0
                 </div>
 
                 <div class="links">
